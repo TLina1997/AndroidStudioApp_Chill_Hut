@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "369438653460",
+    "firebase_url": "https://chillhutnew.firebaseio.com",
+    "project_id": "chillhutnew",
+    "storage_bucket": "chillhutnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369438653460:android:ad7aa4e349a2ff45",
+        "android_client_info": {
+          "package_name": "com.example.tlina.chill_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369438653460-dlp12l7c8vdah0pqrghi127rsqet0d5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tlina.chill_new",
+            "certificate_hash": "d3999e8392b433a50b0c47cb03339e2e467d1bf8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdPESHHNaeORHHZkDhmSeOFWXgYzVWgkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369438653460-ltjo6lcn0narpnbakq70qiifa5gg91l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

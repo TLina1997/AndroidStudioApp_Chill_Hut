@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChillHut</string>
+    <string name="search">search</string>
+
+    <array name="juice_Name">
+        <item>Choose Name</item>
+        <item>Avacado</item>
+        <item>Mango</item>
+        <item>Strawberry</item>
+        <item>WoodApple</item>
+        <item>Apple</item>
+        <item>Pineapple</item>
+        <item>Papaya</item>
+        <item>Grape</item>
+        <item>Lime</item>
+        <item>Watermelon</item>
+        <item>Pomegranate</item>
+    </array>
+
+    <array name="juice_Type">
+        <item>Choose Type</item>
+        <item>Juice</item>
+        <item>Smoothie</item>
+        <item>Shake</item>
+        <item>Lassi</item>
+        <item>Sprite</item>
+    </array>
+</resources>
